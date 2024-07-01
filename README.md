@@ -52,7 +52,7 @@ The requirements.txt file should include the following dependencies:
 git clone https://github.com/abhisek-13/HandWritten_Digit_Classifier.git
 cd HandWritten_Digit_Classifier
 ```
-2. Open the handwritten_digit_prediction.ipynb file and run all the cells to train the model and see the results.
+2. Open the Hand_Written_digit_Recognition.ipynb file and run all the cells to train the model and see the results.
 
 ## Results
 The model achieves an accuracy of 98% on the MNIST test dataset. Below is a sample of predictions made by the model:
